@@ -1,5 +1,4 @@
 # Список отзыва RestoService. Файл подписан, правка делает его недействительным.
-updated = 2026-10-17T08:03:07
+updated = 2026-10-17T08:03:43
 ttl_days = 30
-revoked = a4c5a1716fe1377ec633a94b938dbc39|тест скорости блокировки
-signature = E+OAapteZvd8PAkEqMtL5YdzefnjuEwkwj7o6IkmY3CWPT3CVKPnGcmaf8p7urzAcwNlVxSZ6NsfrxV7N4xTBg==
+signature = XNjarqw7Zsprq8ceY3sj4DKU+l0lpyy9AQQZGSw/udMsy+78TSB93Et6Gi2qt6ELhhus/I6+tMO7JvDjnVZrDg==
