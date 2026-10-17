@@ -1,5 +1,4 @@
 # Список отзыва RestoService. Файл подписан, правка делает его недействительным.
-updated = 2026-10-17T07:53:54
+updated = 2026-10-17T07:58:47
 ttl_days = 30
-revoked = a4c5a1716fe1377ec633a94b938dbc39|оплата за октябрь не поступила
-signature = GUC/5gON9EJ2XCyZSYj0kAVPl1dXVUMslpq6Edg1uPKRujNWY0xQY64TjDwoCTA/010SjHR0N34Q64M3c+G1Cg==
+signature = CCsX5+jFW5bGp1E2YX0VDH/AphVn3MuMlYWwQjx2VGsoGYyyTLKETSoBI5HlX6ifL/v/WnDtl0bSy2wQ6ZaUAg==
