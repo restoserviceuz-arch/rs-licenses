@@ -1,0 +1,4 @@
+# Список отзыва RestoService. Файл подписан, правка делает его недействительным.
+updated = 2026-10-17T07:51:27
+ttl_days = 30
+signature = hjw+BhYoxLuwRRwYPm3wFXOY4xDPAbYcuJtgnqClIvQvseBRuLcpYEdhm0xU8Ujd+CqYrR0ui/IqWJaliX9JDg==
